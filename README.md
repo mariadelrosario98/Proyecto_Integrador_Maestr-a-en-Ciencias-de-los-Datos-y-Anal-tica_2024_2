@@ -1,1 +1,1 @@
-# Proyecto_Integrador_Maestr-a-en-Ciencias-de-los-Datos-y-Anal-tica_2024_2
+# Proyecto_Integrador_Maestría-en-Ciencias-de-los-Datos-y-Anal-tica_2024_2
