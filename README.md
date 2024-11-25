@@ -6,6 +6,8 @@ Este proyecto tiene como objetivo procesar publicaciones y comentarios extraído
 
 ## Descripción General del Flujo
 
+![Arquitectura del Proyecto](ruta/a/la/imagen/ARQUITECTURA_PI.drawio.png)
+
 ### 1. **Extracción de Datos**
 - **Fuente**: API Meta para Instagram.
 - **Datos extraídos**:
