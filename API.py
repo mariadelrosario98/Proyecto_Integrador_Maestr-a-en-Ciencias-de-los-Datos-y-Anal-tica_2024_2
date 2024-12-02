@@ -13,19 +13,13 @@
 #  https://graph.facebook.com/v21.0/oauth/access_token?grant_type=fb_exchange_token&client_id=572856578543044&client_secret=c20ba3cdffd2ab69763c21bb7d1641cd&fb_exchange_token=EAAIJApDfDcQBO8giZBJeEhbo4iUZAqCeAeUwhN7vQyTzn1ZC7qf8URxBU4GwfFwUGFeKU0C2brYJLHyo7PSRE7ikkAWMUygP1oZB861DfF4JElQGbTSRJK8TkydXyP4Bc3MpR19m3AIKHhZC0OdQbX8ZABZCyFkusNz6IjgcMpZCGsHV1sW9DZCSigrIZB07k1akouZCPSpZCIWfZCIpnRT4oZAAgBNk66qrY8nMZA66AZDZD
 
 
-# {
-#   "access_token": "EAAIJApDfDcQBO4nNgzctCqYNnMoRiwCwMZB2oxvZAw3XyBbiZCRvyugnQz015JB9lzr99NZAgaT9hq8NvuHHRLzpMen2LJPQ6rkdaOV8lIPFvOh5Lx9qfJHUDtFWKMH2lpbPZBVpMx8ghvtvHQt9lxLZCE49A6T1SCP0O5x0iZBrn0fpEZCwbB8n3lYcqYOJLyXBOZBIafsxa",
-#   "token_type": "bearer",
-#   "expires_in": 5184000
-# }
-
 from pymongo import MongoClient, UpdateOne
 import requests
 import time
 
 
-ACCESS_TOKEN = "EAAIJApDfDcQBO4nNgzctCqYNnMoRiwCwMZB2oxvZAw3XyBbiZCRvyugnQz015JB9lzr99NZAgaT9hq8NvuHHRLzpMen2LJPQ6rkdaOV8lIPFvOh5Lx9qfJHUDtFWKMH2lpbPZBVpMx8ghvtvHQt9lxLZCE49A6T1SCP0O5x0iZBrn0fpEZCwbB8n3lYcqYOJLyXBOZBIafsxa"
-CONNECTION = "mongodb+srv://instagram_comments_user:Dsf9dn0mRkVbPSbt@arkia-qa.by3jvcu.mongodb.net/instagram_comments"
+ACCESS_TOKEN = ""
+CONNECTION = ""
 DATABASE = "instagram_comments"
 
 def main():
