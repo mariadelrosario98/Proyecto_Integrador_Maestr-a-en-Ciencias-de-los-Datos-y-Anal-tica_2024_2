@@ -2,7 +2,8 @@
 
 Este proyecto tiene como objetivo procesar publicaciones y comentarios extraídos de Instagram para realizar análisis de sentimientos y clasificar imágenes según su contexto, utilizando herramientas de ETL, AWS y modelos de Machine Learning.
 
-![ARQUITECTURA_PI drawio (1) (1)](https://github.com/user-attachments/assets/82ba5ba2-8e21-4249-aa1f-edc5ea672314)
+![ARQUITECTURA_PI drawio (2)](https://github.com/user-attachments/assets/5d80dac8-0422-4ec7-9b21-9de9c16cf0ab)
+
 ---
 
 ## Descripción General del Flujo
